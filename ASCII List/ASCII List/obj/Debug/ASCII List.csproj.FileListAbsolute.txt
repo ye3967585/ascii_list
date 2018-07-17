@@ -1,0 +1,19 @@
+c:\users\yang\source\repos\ASCII List\ASCII List\bin\Debug\ASCII List.exe.config
+c:\users\yang\source\repos\ASCII List\ASCII List\bin\Debug\ASCII List.exe
+c:\users\yang\source\repos\ASCII List\ASCII List\bin\Debug\ASCII List.pdb
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.csprojAssemblyReference.cache
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII_List.Properties.Resources.resources
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.csproj.GenerateResource.cache
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.csproj.CoreCompileInputs.cache
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.exe
+c:\users\yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.pdb
+C:\Users\Yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII_List.Home.resources
+C:\Users\Yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII_List.ASCII_E.resources
+C:\Users\Yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII_List.AboutBox1.resources
+C:\Users\Yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII_List._Covrert.resources
+C:\Users\Yang\source\repos\ASCII List\ASCII List\bin\Debug\RetroTime.dll
+C:\Users\Yang\source\repos\ASCII List\ASCII List\bin\Debug\DrawImageForConsole.dll
+C:\Users\Yang\source\repos\ASCII List\ASCII List\bin\Debug\RetroTime.pdb
+C:\Users\Yang\source\repos\ASCII List\ASCII List\bin\Debug\RetroTime.xml
+C:\Users\Yang\source\repos\ASCII List\ASCII List\obj\Debug\ASCII List.csproj.CopyComplete
+C:\Users\Yang\source\repos\ASCII List\ASCII List\bin\Debug\Resources\Help.txt
